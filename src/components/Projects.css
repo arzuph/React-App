@@ -28,19 +28,19 @@
 
 .project img {
   width: 100%;
-  max-height: 300px; /* Adjust the max height as per your design */
-  object-fit: cover; /* Ensures images maintain aspect ratio and cover the container */
+  max-height: 300px; 
+  object-fit: cover; 
   border-radius: 8px;
 }
 
 .project h3 {
-  font-size: 1.5em; /* Larger font size for project titles */
+  font-size: 1.5em; 
   margin: 10px 0;
   color: #0073e6;
 }
 
 .project p {
-  font-size: 0.9em; /* Smaller font size for project descriptions */
+  font-size: 0.9em; 
   line-height: 1.6;
   color: #555;
 }
