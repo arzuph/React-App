@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/React-App/static/css/main.f35de6c9.css",
+    "main.js": "/React-App/static/js/main.46d4b20c.js",
+    "static/media/Travel.PNG": "/React-App/static/media/Travel.28b60b6721b04836d832.PNG",
+    "static/media/CapturePleasure.PNG": "/React-App/static/media/CapturePleasure.ce3dedf90121ab7366e3.PNG",
+    "static/media/CaptureTyrrel.jpg": "/React-App/static/media/CaptureTyrrel.df78687e2ff1259cab28.jpg",
+    "static/media/girl-2013447_1280.jpg": "/React-App/static/media/girl-2013447_1280.5d82dd9ffa668a764e0d.jpg",
+    "index.html": "/React-App/index.html",
+    "main.f35de6c9.css.map": "/React-App/static/css/main.f35de6c9.css.map",
+    "main.46d4b20c.js.map": "/React-App/static/js/main.46d4b20c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f35de6c9.css",
+    "static/js/main.46d4b20c.js"
+  ]
+}
