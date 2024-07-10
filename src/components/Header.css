@@ -1,0 +1,33 @@
+/* src/components/Header.css */
+.Header {
+    background-color: #282c34;
+    padding: 20px;
+    color: white;
+  }
+  
+  .Header h1 {
+    margin: 0;
+    font-size: 2.5em;
+  }
+  
+  .Header h2 {
+    margin: 0;
+    font-size: 1.5em;
+    font-weight: normal;
+  }
+  
+  .Header nav ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .Header nav ul li {
+    display: inline;
+    margin: 0 10px;
+  }
+  
+  .Header nav ul li a {
+    color: #61dafb;
+    text-decoration: none;
+  }
+  

@@ -1,0 +1,33 @@
+/* src/components/Skills.css */
+
+.Skills {
+  text-align: center;
+  margin: 20px;
+}
+
+.Skills ul {
+  list-style-type: none;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.Skills ul li {
+  margin: 10px;
+  padding: 10px 20px;
+  border: 1px solid #0073e6;
+  border-radius: 25px;
+  background-color: #f0f8ff;
+  color: #0073e6;
+  font-weight: bold;
+  text-transform: uppercase;
+  font-size: 0.9em;
+  transition: all 0.3s ease;
+}
+
+.Skills ul li:hover {
+  background-color: #0073e6;
+  color: #f0f8ff;
+  cursor: pointer;
+}
